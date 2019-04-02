@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AwesomeButton">
+
+        <attr name="token_font_color_one" format="color"/>
+        <attr name="token_font_color_two" format="color"/>
+        <attr name="token_font_color_three" format="color"/>
+        <attr name="token_font_color_four" format="color"/>
+
+        <attr name="token_font_size" format="dimension"/>
+        <!--
+        <attr name="token_font_size_medium" format="dimension"/>
+        <attr name="token_font_size_large" format="dimension"/>
+        <attr name="token_font_size_xlarge" format="dimension"/>-->
+
+
+    </declare-styleable>
+</resources>

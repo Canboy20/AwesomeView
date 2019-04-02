@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AwesomeView</string>
+    <string name="say_awesome_text">Say AWESOME!</string>
+    <string name="shout_awesome_text">Shout AWESOME!</string>
+    <string name="whisper_awesome_text">Whisper AWESOME!</string>
+    <string name="talk_awesome_text">Talk AWESOME!</string>
+    <string name="be_awesome_text">Be AWESOME!</string>
+    <string name="stay_awesome_text">Stay AWESOME!</string>
+    <string name="fight_awesome_text">Fight AWESOME!</string>
+    <string name="play_awesome_text">Play AWESOME!</string>
+</resources>
